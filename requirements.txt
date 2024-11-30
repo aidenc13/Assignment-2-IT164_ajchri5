@@ -1,0 +1,5 @@
+﻿gradio
+transformers
+torchaudio
+fasttext
+pandas
