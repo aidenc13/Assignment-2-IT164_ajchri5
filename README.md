@@ -25,12 +25,21 @@
   - Expanding translation support for more languages.
   - Enhancing the user interface with additional features, such as audio playback.
  
-3. How to Install and Run the Project:
-- 
+3. How to Run the Project:
+- Clone the repository; replace your-username and your-repository with your GitHub username and repository name, respectively.
 
+      git clone https://github.com/your-username/your-repository.git
+
+      cd your-repository
+- Set up dependencies; simply upload or open the notebook directly in Google Colab, as no installation is needed.
+- Open your Google Colab notebook; use on your own from there.
+  
 4. How to Use the Project:
-- 
-
+- In Google Colab, open your own notebook or upload it to your Google Drive.
+  - Follow the provided instructions and run the cells sequentially.
+- As or if needed, feel free to modify the input parameters and data. Be sure to adjust any file paths for local setups or if using Google Drive in Colab.
+  - For additional information and or help, first refer to GitHub Docs then see documentation within this repository and README.
+    - https://docs.github.com/en
 5. Credits:
 - This project was developed by Aiden C., using the resources listed here.
   - Whisper Model: OpenAI's Whisper for speech-to-text transcription via Hugging Face.
