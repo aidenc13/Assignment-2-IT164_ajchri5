@@ -26,7 +26,7 @@
   - Enhancing the user interface with additional features, such as audio playback.
  
 3. How to Run the Project:
-- Clone the repository; replace your-username and your-repository with your GitHub username and repository name, respectively.
+- Designed for Google Colab, clone the repository in a notebook; replace your-username and your-repository with your GitHub username and repository name, respectively.
 
       git clone https://github.com/your-username/your-repository.git
 
