@@ -28,9 +28,8 @@
 3. How to Run the Project:
 - Designed for Google Colab, clone the repository in a notebook; replace your-username and your-repository with your GitHub username and repository name, respectively.
 
-      git clone https://github.com/your-username/your-repository.git
+      !git clone https://github.com/your-username/your-repository.git
 
-      cd your-repository
 - Set up dependencies; simply upload or open the notebook directly in Google Colab, as no installation is needed.
 - Open your Google Colab notebook; use on your own from there.
   
