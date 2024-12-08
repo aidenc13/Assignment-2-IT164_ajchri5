@@ -2,4 +2,3 @@
 transformers
 torchaudio
 fasttext
-pandas
